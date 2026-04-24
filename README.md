@@ -2,6 +2,17 @@
 Engineering student with a strong interest in cybersecurity, systems engineering, and technology-driven problem solving. I enjoy exploring how systems work at a deeper level—analyzing networks, studying potential vulnerabilities, and building practical tools that improve security and efficiency. My focus is on learning both the defensive and analytical aspects of cybersecurity while developing skills in Linux environments, scripting, and automation. I use GitHub to document projects, experiments, and technical learning as I continue to grow as an engineer.
 
 
+
+
+
+# Q1NFKElDQik=
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityagowda02@gmail>com) 
 
