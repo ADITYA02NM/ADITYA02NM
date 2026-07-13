@@ -166,7 +166,7 @@
       <text x="46" y="494" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
       <text x="46" y="512" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
       <text x="46" y="530" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
-      <text x="46" y="554" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
+      <text x="46" y="562" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
 
     </g>
 
