@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640">
   <defs>
     <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#7AA2F7">
@@ -78,10 +78,8 @@
       .scan-hdr  { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #F7768E; font-weight: bold; }
       .scan-port { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #7DCFFF; }
       .scan-svc  { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #C0CAF5; }
-      .scan-flag-ca { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #F7768E; font-weight: bold; }
       .scan-flag-gs { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #FF9E64; font-weight: bold; }
       .scan-flag-al { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #565F89; }
-      .scan-target-ca { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #F7768E; font-weight: bold; }
       .scan-target-gs { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #FF9E64; font-weight: bold; }
       .scan-target-al { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #565F89; }
       .scan-st   { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #9ECE6A; font-weight: bold; }
@@ -90,8 +88,8 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1180" height="620" rx="18" fill="url(#bgGlow)"/>
-  <rect width="1180" height="620" rx="18" fill="url(#scanlines)"/>
+  <rect width="1180" height="640" rx="18" fill="url(#bgGlow)"/>
+  <rect width="1180" height="640" rx="18" fill="url(#scanlines)"/>
 
   <!-- Title bar -->
   <g id="titlebar">
@@ -161,17 +159,14 @@
       </text>
 
       <!-- Scan results -->
-      <text x="46" y="422" class="scan-sep">╭─── SCAN ─────────────────────────────────────────╮</text>
-      <text x="46" y="440" class="scan-target-ca">▶ Cyber.Assassin</text>
-      <text x="66" y="456" class="scan-port">22/tcp</text><text x="154" y="456" class="arrow">→</text><text x="172" y="456" class="scan-svc">ssh</text><text x="256" y="456" class="scan-flag-ca">✓</text>
-      <text x="66" y="472" class="scan-port">80/tcp</text><text x="154" y="472" class="arrow">→</text><text x="172" y="472" class="scan-svc">http</text><text x="256" y="472" class="scan-flag-ca">✓</text>
-      <text x="66" y="488" class="scan-port">443/tcp</text><text x="154" y="488" class="arrow">→</text><text x="172" y="488" class="scan-svc">https</text><text x="256" y="488" class="scan-flag-ca">✓</text>
-      <text x="46" y="504" class="scan-target-gs">▶ GlitchShift</text>
-      <text x="66" y="520" class="scan-port">8080/tcp</text><text x="154" y="520" class="arrow">→</text><text x="172" y="520" class="scan-svc">http-proxy</text><text x="256" y="520" class="scan-flag-gs">✓</text>
-      <text x="66" y="536" class="scan-port">8443/tcp</text><text x="154" y="536" class="arrow">→</text><text x="172" y="536" class="scan-svc">https-alt</text><text x="256" y="536" class="scan-flag-gs">✓</text>
-      <text x="46" y="552" class="scan-target-al">▶ Atlas.Corp</text>
-      <text x="66" y="568" class="scan-svc">all ports filtered — IDS/IPS active</text><text x="356" y="568" class="scan-flag-al">⛌</text>
-      <text x="46" y="584" class="scan-sep">╰─── 2/3 COMPROMISED · 5 SHELLS ACQUIRED ────────────╯</text>
+      <text x="46" y="420" class="scan-target-gs">┌─ GlitchShift ────────────────────────────────────────────┐</text>
+      <text x="46" y="438" class="scan-svc">│ 8080/tcp → http-proxy                                    │</text>
+      <text x="46" y="456" class="scan-svc">│ 8443/tcp → https-alt                                     │</text>
+      <text x="46" y="474" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="494" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
+      <text x="46" y="512" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
+      <text x="46" y="530" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="554" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
 
     </g>
 
@@ -210,7 +205,7 @@
   </rect>
 
   <!-- Border glow -->
-  <rect x="3" y="3" width="1174" height="614" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <rect x="3" y="3" width="1174" height="634" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
     <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
