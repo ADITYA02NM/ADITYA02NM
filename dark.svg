@@ -62,6 +62,7 @@
     <clipPath id="lc18"><rect x="550" y="458.00" width="0" height="24"><animate attributeName="width" from="0" to="610" dur="0.38s" begin="2.84s" fill="freeze"/></rect></clipPath>
     <clipPath id="lc19"><rect x="550" y="480.00" width="0" height="24"><animate attributeName="width" from="0" to="610" dur="0.38s" begin="2.95s" fill="freeze"/></rect></clipPath>
     <clipPath id="lc20"><rect x="550" y="502.00" width="0" height="24"><animate attributeName="width" from="0" to="610" dur="0.38s" begin="3.06s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc21"><rect x="550" y="524.00" width="0" height="24"><animate attributeName="width" from="0" to="610" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
     <style>
       .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
       .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #0284C7; font-weight: bold; }
