@@ -152,9 +152,6 @@
       <text x="46" y="514" class="scan-flag">│ IDS/IPS ACTIVE — all ports blocked                  │</text>
       <text x="46" y="532" class="scan-border-ac">└─────────────────────────────────────────────────────┘</text>
       <text x="46" y="548" class="scan-st">═══ 5 FLAGS CAPTURED ══════════════════════════════════</text>
-      <text x="46" y="564" class="scan-sep">════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════</text>
-      <text x="46" y="580" class="scan-sep">════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════</text>
-    </g>
       <g clip-path="url(#lc0)"><text x="566" y="0" fill="#E2E8F0"><tspan x="566" y="44" class="cc">——————————————————————————————————————————————————————————————————————</tspan></text></g>
       <g clip-path="url(#lc0b)"><text x="566" y="0" fill="#E2E8F0"><tspan x="566" y="64" class="head">@Cyber_Assassin</tspan></text></g>
       <g clip-path="url(#lc1)"><text x="566" y="0" fill="#E2E8F0"><tspan x="566" y="84" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Aditya Gowda</tspan></text></g>
@@ -181,6 +178,7 @@
       <rect x="568" y="546" width="9" height="16" class="cursor-blink" opacity="0">
         <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
       </rect>
+    </g>
   </g>
   <rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.7" style="mix-blend-mode:screen">
     <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" repeatCount="indefinite"/>
