@@ -39,7 +39,28 @@
       <animate attributeName="height" from="0" to="580" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </rect>
   </mask>
-  <clipPath id="lc0"><rect x="588" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath><clipPath id="lc1"><rect x="588" y="50.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath><clipPath id="lc2"><rect x="588" y="72.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.98s" fill="freeze"/></rect></clipPath><clipPath id="lc3"><rect x="588" y="94.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.09s" fill="freeze"/></rect></clipPath><clipPath id="lc4"><rect x="588" y="116.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.21s" fill="freeze"/></rect></clipPath><clipPath id="lc5"><rect x="588" y="138.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.32s" fill="freeze"/></rect></clipPath><clipPath id="lc6"><rect x="588" y="160.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.44s" fill="freeze"/></rect></clipPath><clipPath id="lc7"><rect x="588" y="182.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.55s" fill="freeze"/></rect></clipPath><clipPath id="lc8"><rect x="588" y="204.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.67s" fill="freeze"/></rect></clipPath><clipPath id="lc9"><rect x="588" y="226.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.78s" fill="freeze"/></rect></clipPath><clipPath id="lc10"><rect x="588" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath><clipPath id="lc11"><rect x="588" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath><clipPath id="lc12"><rect x="588" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath><clipPath id="lc13"><rect x="588" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath><clipPath id="lc14"><rect x="588" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath><clipPath id="lc15"><rect x="588" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath><clipPath id="lc16"><rect x="588" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath><clipPath id="lc17"><rect x="588" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath><clipPath id="lc18"><rect x="588" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath><clipPath id="lc19"><rect x="588" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath><clipPath id="lc20"><rect x="588" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath><clipPath id="lc21"><rect x="588" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc0"><rect x="430" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc1"><rect x="430" y="50.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc2"><rect x="430" y="72.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.97s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc3"><rect x="430" y="94.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.08s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc4"><rect x="430" y="116.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.19s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc5"><rect x="430" y="138.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.30s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc6"><rect x="430" y="160.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.41s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc7"><rect x="430" y="182.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.52s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc8"><rect x="430" y="204.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.63s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc9"><rect x="430" y="226.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.74s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc10"><rect x="430" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.85s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc11"><rect x="430" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.96s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc12"><rect x="430" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.07s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc13"><rect x="430" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.18s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc14"><rect x="430" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.29s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc15"><rect x="430" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.40s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc16"><rect x="430" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.51s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc17"><rect x="430" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.62s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc18"><rect x="430" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.73s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc19"><rect x="430" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.84s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc20"><rect x="430" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.95s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc21"><rect x="430" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.06s" fill="freeze"/></rect></clipPath>
   <style>
     .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
     .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #7AA2F7; font-weight: bold; }
@@ -52,6 +73,12 @@
     .scan-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #F7768E; letter-spacing: 1px; }
     .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #7DCFFF; letter-spacing: 2px; opacity: 0.7; }
     .cursor-blink { fill: #7AA2F7; }
+    .scan-hdr { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #F7768E; font-weight: bold; }
+    .scan-port { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #7DCFFF; }
+    .scan-state { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #9ECE6A; font-weight: bold; }
+    .scan-svc { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #C0CAF5; }
+    .scan-st { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #FF9E64; }
+    .sep { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #565F89; }
   </style>
 </defs>
 
@@ -71,61 +98,103 @@
 </g>
 
 <g transform="translate(0,38)">
-  <rect x="20" y="26" width="560" height="500" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
-  <rect x="588" y="26" width="560" height="500" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
-  <text x="36" y="24" class="panel-title">NMAP.SCAN</text>
-  <text x="604" y="24" class="panel-title">SYSTEM.INFO</text>
+  <rect x="40" y="26" width="360" height="510" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="430" y="26" width="710" height="510" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <text x="56" y="24" class="panel-title">NMAP.SCAN</text>
+  <text x="446" y="24" class="panel-title">SYSTEM.INFO</text>
 
   <g mask="url(#revealMask)">
-  <text x="36" y="0" class="ascii">
+  <text x="56" y="0" class="ascii">
 
-<tspan x="36" y="35.00" xml:space="preserve">**++*=#*-+*==+-+=-::.        .:-:-=+-==++**+#*=::..-::. .:.-=+**#####*+=..:.::=+</tspan>
-<tspan x="36" y="46.54" xml:space="preserve">=+*%##*#*****+*=:==:.         ...:..:=++-=--=::.:.   :=-++**++-*####***+-.:::::=</tspan>
-<tspan x="36" y="58.08" xml:space="preserve">%%%%%%%#*#*--=+--=:::-=::-=-=.:: ..*=***+***+*+===--+*###%#**+#%%%%%%##*+=::::::</tspan>
-<tspan x="36" y="69.62" xml:space="preserve">%#%%%####+-=--:=++:-==+-++=*--*#*++.:+*+*#######**-.*#####+**#%%%#%%@%%*+ .:-::.</tspan>
-<tspan x="36" y="81.15" xml:space="preserve">%#%#%%+**+-=+-+++=+==*######.-++:==+*==*++=++===+**+--:..:--=*+++*#*##%%*=--:-:.</tspan>
-<tspan x="36" y="92.69" xml:space="preserve">%##%##*#++=+##*+==**==#*%%%%####*=##+=**+##*####*+#*=-:::=-+#%%%%%%%%%%%*--::-::</tspan>
-<tspan x="36" y="104.23" xml:space="preserve">##%%%%#%**+==++==+*#==*%%%%%%+*####*==*###%%%%@%%%%#+=+*++#%%%%%%%%%%%%#*-=.:--:</tspan>
-<tspan x="36" y="115.77" xml:space="preserve">%#%%*%%#%##+=+=::--+--+*%%%%%#%%%##+=+####%%%%@%%#*=++*++#%%%@%%%#%%%%#+==::-:::</tspan>
-<tspan x="36" y="127.31" xml:space="preserve">%%%%%%%%%%%##**+==---+*+-+#%%%%%%#*=#*##%%%%%##**:==++:+*#%%%%%%%%%#*+++=.-::..=</tspan>
-<tspan x="36" y="138.85" xml:space="preserve">%%%%%%%%%%%%%%#=**##*=*##**#*+*==.-#%*##%##==+*:--=-:-#%%%#####*++*****=::.. :+*</tspan>
-<tspan x="36" y="150.38" xml:space="preserve">%%#%%%%%%%%%%##+#+****##*%####**++*%===*+=+**#.:::. ####%%%%######*+:::.  .=**#</tspan>
-<tspan x="36" y="161.92" xml:space="preserve">#%%%%%%%%%%%%%#+*#+++#**#::::.:+#=#%.::::::--+....  ==+==++++++++-::::.  ==+*##%</tspan>
-<tspan x="36" y="173.46" xml:space="preserve">#%%%%%%%%%%%%%*=+*##+****...:::*=*#*==-::..:++     --:....:::::....  -=++****#%%</tspan>
-<tspan x="36" y="185.00" xml:space="preserve">#%%%%%%%%%%%%%#==+++***+*+:--+%%=*##%%%%%*=+**    -+**#####*#*************###%%@</tspan>
-<tspan x="36" y="196.54" xml:space="preserve">##%%%%%%%%%%%%%+=*#*+*####*+%##=+###%%%%%%%%**   %%*+*######%#######*#*###+-#%%@</tspan>
-<tspan x="36" y="208.08" xml:space="preserve">##%%%%%%%%%%%%%#**=*#%#%%%%%*+=-*##########%%-  %%%%#*#%####%#%##########%##%%%%</tspan>
-<tspan x="36" y="219.62" xml:space="preserve">##%%%%%%%%%%%%%####*+=*%#%@#*=-=*#****###%%%%:.%%%##%#*#%%%#%#%####%#%%%%##%%%%#</tspan>
-<tspan x="36" y="231.15" xml:space="preserve">#%%%%%#%%%%%%%%%##%##*+=%%##%#++****##%***%%%=.*##=+%%*#%%%%%%%%%%%%%%%%%%###%#%</tspan>
-<tspan x="36" y="242.69" xml:space="preserve">##%%%%%%%%%%%%%%%%%#*#+=%#----++##*-::::.*#*%*=+#=-+%%##%%%%%%%%%%%%%%#%#%*###*%</tspan>
-<tspan x="36" y="254.23" xml:space="preserve">%%#%%%%%%%%%%##%%%%%+*+-##...=**#%#%%. .*+#+==:+=.:%%###*######%%%%%##*%#%#%-%#%</tspan>
-<tspan x="36" y="265.77" xml:space="preserve">%%%#%%%%%%%%#%#%%%%#-*+:-*#%#%%%#%%%%%#**= : *=. ##*#+=+%%%%#**%%%%####+%#=#-%%#</tspan>
-<tspan x="36" y="277.31" xml:space="preserve">%%##%%%%%%%%%%%#%%%%%#:-.-+*#%@%+%%%%**++ -=:..##*++=#*####%%%%%***#*+-+#*##-%%#</tspan>
-<tspan x="36" y="288.85" xml:space="preserve">%%%##%%%%%%%%%%%#%###+-=.:.-+#*#####*-:+=-*****+==-:#****#######%%%=..  .:-#*###</tspan>
-<tspan x="36" y="300.38" xml:space="preserve">*###-#%%##%%#%%#######..--.::-=+**+**####**+=-::..%+*++===++*#%#####%%%%%%%%%%+*</tspan>
-<tspan x="36" y="311.92" xml:space="preserve">#####=###%#%##%%#######=-.:: ..::-====--::...  =+%*+*#******+*++#++*##-*#%%%%%%%</tspan>
-<tspan x="36" y="323.46" xml:space="preserve">##*#*+:########%######**+++.=*             :--.%#%=++*=*#**##*###*+++==+:+**%%%%</tspan>
-<tspan x="36" y="335.00" xml:space="preserve">***===-.#####%#%#*###**-=**=+=-.   ..      .-.+*%-++:*++**+***#*###+*+++++=*+*++</tspan>
-<tspan x="36" y="346.54" xml:space="preserve">*=--: ::*#*#######*#*+***+**-+=.==----=====-:*++-+.=*+++:-#*-****#***-*:***#*##*</tspan>
-<tspan x="36" y="358.08" xml:space="preserve">#----. ..#*++##*#*#+#****-#**==-:        :-:###**=-:===.-*+-=+=*##**+++***####+*</tspan>
-<tspan x="36" y="369.62" xml:space="preserve">%*=**+: .:#+*+*-*=**=+++*=-**=-=.:.    .-=**+===---:--*=+*==*+:***=++++#*+*##**#</tspan>
-<tspan x="36" y="381.15" xml:space="preserve">+*#*==..-**=-#*-+:*=+:=+++-*+=+:-:.#...=%+++::..:..:#=-=+.-*#+:+**:=--+*+.*#+**#</tspan>
-<tspan x="36" y="392.69" xml:space="preserve">+###+**:.**==+++==+=*++-=---+*#%% =%  @%%==-.   ...-*%:++-**=.=**:*+--+= +**=:*+</tspan>
-<tspan x="36" y="404.23" xml:space="preserve">=*%#=++*.*--+=++*+#=+=++*##%#%%%% %% @%%%-:.    .:-+#%%----*::==:+++-++=+*+*-*=+</tspan>
-<tspan x="36" y="415.77" xml:space="preserve">#=+##+*=:+:==+=+-==*##+#%%%%%%###.%%+%*#%+       :-=%#%%-:--+--.+*-:-+=++:+=-*++</tspan>
-<tspan x="36" y="427.31" xml:space="preserve">#+=+###=+-:::= .*+#%%%*%#*#+####**%%%%*#%..*     :%%%#*#:-:-:.:=.=-.--===+----++</tspan>
-<tspan x="36" y="438.85" xml:space="preserve">=*+-++**=-+=.:%%%%%#%#########**+*+%-*-+*######*%###%##+.=+-=:-*-.:=.=:.+-:+:=+*</tspan>
-<tspan x="36" y="450.38" xml:space="preserve">-=*#==#+=: .#%##%####***#*+*****##=#:: .--*#*##+=#***##*.=:-=::-:.-.-*+=--==+==+</tspan>
-<tspan x="36" y="461.92" xml:space="preserve">-::=*-==--+:-*#+*=**-***=*#*#*###*#*==++=. -*####*=+-+##=..-::*:==-:==-:-:::=+==</tspan>
-<tspan x="36" y="473.46" xml:space="preserve">-**+++-:..::.+#+=+-+=:*####**#***+++==-:. .#%.:%*+==:####*:::-:.:-..+:=::===-:==</tspan>
-<tspan x="36" y="485.00" xml:space="preserve">*=*+-+=:... .:++=*+****:*##*+#+##=*=:==+-:.:#-##*=+*===::..:. .=...---::-+=-=-:-</tspan>
+<tspan x="56" y="38.00" xml:space="preserve">**++*=#*-+*==+-+=-::.        .:-:-=+-==++**+#*=::..-::. .:.-=+**#####*+=..:.::=+</tspan>
+<tspan x="56" y="47.50" xml:space="preserve">=+*%##*#*****+*=:==:.         ...:..:=++-=--=::.:.   :=-++**++-*####***+-.:::::=</tspan>
+<tspan x="56" y="57.00" xml:space="preserve">%%%%%%%#*#*--=+--=:::-=::-=-=.:: ..*=***+***+*+===--+*###%#**+#%%%%%%##*+=::::::</tspan>
+<tspan x="56" y="66.50" xml:space="preserve">%#%%%####+-=--:=++:-==+-++=*--*#*++.:+*+*#######**-.*#####+**#%%%#%%@%%*+ .:-::.</tspan>
+<tspan x="56" y="76.00" xml:space="preserve">%#%#%%+**+-=+-+++=+==*######.-++:==+*==*++=++===+**+--:..:--=*+++*#*##%%*=--:-:.</tspan>
+<tspan x="56" y="85.50" xml:space="preserve">%##%##*#++=+##*+==**==#*%%%%####*=##+=**+##*####*+#*=-:::=-+#%%%%%%%%%%%*--::-::</tspan>
+<tspan x="56" y="95.00" xml:space="preserve">##%%%%#%**+==++==+*#==*%%%%%%+*####*==*###%%%%@%%%%#+=+*++#%%%%%%%%%%%%#*-=.:--:</tspan>
+<tspan x="56" y="104.50" xml:space="preserve">%#%%*%%#%##+=+=::--+--+*%%%%%#%%%##+=+####%%%%@%%#*=++*++#%%%@%%%#%%%%#+==::-:::</tspan>
+<tspan x="56" y="114.00" xml:space="preserve">%%%%%%%%%%%##**+==---+*+-+#%%%%%%#*=#*##%%%%%##**:==++:+*#%%%%%%%%%#*+++=.-::..=</tspan>
+<tspan x="56" y="123.50" xml:space="preserve">%%%%%%%%%%%%%%#=**##*=*##**#*+*==.-#%*##%##==+*:--=-:-#%%%#####*++*****=::.. :+*</tspan>
+<tspan x="56" y="133.00" xml:space="preserve">%%#%%%%%%%%%%##+#+****##*%####**++*%===*+=+**#.:::. ####%%%%######*+:::.  .=**#</tspan>
+<tspan x="56" y="142.50" xml:space="preserve">#%%%%%%%%%%%%%#+*#+++#**#::::.:+#=#%.::::::--+....  ==+==++++++++-::::.  ==+*##%</tspan>
+<tspan x="56" y="152.00" xml:space="preserve">#%%%%%%%%%%%%%*=+*##+****...:::*=*#*==-::..:++     --:....:::::....  -=++****#%%</tspan>
+<tspan x="56" y="161.50" xml:space="preserve">#%%%%%%%%%%%%%#==+++***+*+:--+%%=*##%%%%%*=+**    -+**#####*#*************###%%@</tspan>
+<tspan x="56" y="171.00" xml:space="preserve">##%%%%%%%%%%%%%+=*#*+*####*+%##=+###%%%%%%%%**   %%*+*######%#######*#*###+-#%%@</tspan>
+<tspan x="56" y="180.50" xml:space="preserve">##%%%%%%%%%%%%%#**=*#%#%%%%%*+=-*##########%%-  %%%%#*#%####%#%##########%##%%%%</tspan>
+<tspan x="56" y="190.00" xml:space="preserve">##%%%%%%%%%%%%%####*+=*%#%@#*=-=*#****###%%%%:.%%%##%#*#%%%#%#%####%#%%%%##%%%%#</tspan>
+<tspan x="56" y="199.50" xml:space="preserve">#%%%%%#%%%%%%%%%##%##*+=%%##%#++****##%***%%%=.*##=+%%*#%%%%%%%%%%%%%%%%%%###%#%</tspan>
+<tspan x="56" y="209.00" xml:space="preserve">##%%%%%%%%%%%%%%%%%#*#+=%#----++##*-::::.*#*%*=+#=-+%%##%%%%%%%%%%%%%%#%#%*###*%</tspan>
+<tspan x="56" y="218.50" xml:space="preserve">%%#%%%%%%%%%%##%%%%%+*+-##...=**#%#%%. .*+#+==:+=.:%%###*######%%%%%##*%#%#%-%#%</tspan>
+<tspan x="56" y="228.00" xml:space="preserve">%%%#%%%%%%%%#%#%%%%#-*+:-*#%#%%%#%%%%%#**= : *=. ##*#+=+%%%%#**%%%%####+%#=#-%%#</tspan>
+<tspan x="56" y="237.50" xml:space="preserve">%%##%%%%%%%%%%%#%%%%%#:-.-+*#%@%+%%%%**++ -=:..##*++=#*####%%%%%***#*+-+#*##-%%#</tspan>
+<tspan x="56" y="247.00" xml:space="preserve">%%%##%%%%%%%%%%%#%###+-=.:.-+#*#####*-:+=-*****+==-:#****#######%%%=..  .:-#*###</tspan>
+<tspan x="56" y="256.50" xml:space="preserve">*###-#%%##%%#%%#######..--.::-=+**+**####**+=-::..%+*++===++*#%#####%%%%%%%%%%+*</tspan>
+<tspan x="56" y="266.00" xml:space="preserve">#####=###%#%##%%#######=-.:: ..::-====--::...  =+%*+*#******+*++#++*##-*#%%%%%%%</tspan>
+<tspan x="56" y="275.50" xml:space="preserve">##*#*+:########%######**+++.=*             :--.%#%=++*=*#**##*###*+++==+:+**%%%%</tspan>
+<tspan x="56" y="285.00" xml:space="preserve">***===-.#####%#%#*###**-=**=+=-.   ..      .-.+*%-++:*++**+***#*###+*+++++=*+*++</tspan>
+<tspan x="56" y="294.50" xml:space="preserve">*=--: ::*#*#######*#*+***+**-+=.==----=====-:*++-+.=*+++:-#*-****#***-*:***#*##*</tspan>
+<tspan x="56" y="304.00" xml:space="preserve">#----. ..#*++##*#*#+#****-#**==-:        :-:###**=-:===.-*+-=+=*##**+++***####+*</tspan>
+<tspan x="56" y="313.50" xml:space="preserve">%*=**+: .:#+*+*-*=**=+++*=-**=-=.:.    .-=**+===---:--*=+*==*+:***=++++#*+*##**#</tspan>
+<tspan x="56" y="323.00" xml:space="preserve">+*#*==..-**=-#*-+:*=+:=+++-*+=+:-:.#...=%+++::..:..:#=-=+.-*#+:+**:=--+*+.*#+**#</tspan>
+<tspan x="56" y="332.50" xml:space="preserve">+###+**:.**==+++==+=*++-=---+*#%% =%  @%%==-.   ...-*%:++-**=.=**:*+--+= +**=:*+</tspan>
+<tspan x="56" y="342.00" xml:space="preserve">=*%#=++*.*--+=++*+#=+=++*##%#%%%% %% @%%%-:.    .:-+#%%----*::==:+++-++=+*+*-*=+</tspan>
+<tspan x="56" y="351.50" xml:space="preserve">#=+##+*=:+:==+=+-==*##+#%%%%%%###.%%+%*#%+       :-=%#%%-:--+--.+*-:-+=++:+=-*++</tspan>
+<tspan x="56" y="361.00" xml:space="preserve">#+=+###=+-:::= .*+#%%%*%#*#+####**%%%%*#%..*     :%%%#*#:-:-:.:=.=-.--===+----++</tspan>
+<tspan x="56" y="370.50" xml:space="preserve">=*+-++**=-+=.:%%%%%#%#########**+*+%-*-+*######*%###%##+.=+-=:-*-.:=.=:.+-:+:=+*</tspan>
+<tspan x="56" y="380.00" xml:space="preserve">-=*#==#+=: .#%##%####***#*+*****##=#:: .--*#*##+=#***##*.=:-=::-:.-.-*+=--==+==+</tspan>
+<tspan x="56" y="389.50" xml:space="preserve">-::=*-==--+:-*#+*=**-***=*#*#*###*#*==++=. -*####*=+-+##=..-::*:==-:==-:-:::=+==</tspan>
+<tspan x="56" y="399.00" xml:space="preserve">-**+++-:..::.+#+=+-+=:*####**#***+++==-:. .#%.:%*+==:####*:::-:.:-..+:=::===-:==</tspan>
+<tspan x="56" y="408.50" xml:space="preserve">*=*+-+=:... .:++=*+****:*##*+#+##=*=:==+-:.:#-##*=+*===::..:. .=...---::-+=-=-:-</tspan>
 
   </text>
+
+<text x="56" y="426.00" class="sep">────────────────────────────────────────────</text>
+<text x="56" y="444.00" class="scan-hdr">   PORT     STATE  SERVICE</text>
+<text x="56" y="458.00" class="scan-port">   22/tcp</text>
+<text x="134" y="458.00" class="scan-state">open</text>
+<text x="170" y="458.00" class="scan-svc">ssh</text>
+<text x="56" y="472.00" class="scan-port">   80/tcp</text>
+<text x="134" y="472.00" class="scan-state">open</text>
+<text x="170" y="472.00" class="scan-svc">http</text>
+<text x="56" y="486.00" class="scan-port">   443/tcp</text>
+<text x="134" y="486.00" class="scan-state">open</text>
+<text x="170" y="486.00" class="scan-svc">https</text>
+<text x="56" y="500.00" class="scan-port">   8080/tcp</text>
+<text x="134" y="500.00" class="scan-state">open</text>
+<text x="170" y="500.00" class="scan-svc">http-proxy</text>
+<text x="56" y="514.00" class="scan-port">   8443/tcp</text>
+<text x="134" y="514.00" class="scan-state">open</text>
+<text x="170" y="514.00" class="scan-svc">https-alt</text>
+<text x="56" y="530.00" class="scan-st">[+] 5 ports open  |  OS: Linux  |  42.7s</text>
+
   </g>
 
-  <g clip-path="url(#lc0)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="42" class="head">@Cyber_Assassin</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc1)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Aditya Gowda</tspan></text></g><g clip-path="url(#lc2)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">CyberSecurity Expert</tspan></text></g><g clip-path="url(#lc3)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="110" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Banglore ( INDIA )</tspan></text></g><g clip-path="url(#lc4)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="132" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">B.Tech Engineering</tspan></text></g><g clip-path="url(#lc5)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ............ </tspan><tspan class="value">Building · Learning · Securing</tspan></text></g><g clip-path="url(#lc6)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="176" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Linux , Nvim , Git , Docker</tspan></text></g><g clip-path="url(#lc7)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="198" class="cc">. </tspan></text></g><g clip-path="url(#lc8)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="220" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Pentest</tspan><tspan class="cc">: ........ </tspan><tspan class="value">OSINT, VulnScan, Malware</tspan></text></g><g clip-path="url(#lc9)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="242" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Network</tspan><tspan class="cc">: ........ </tspan><tspan class="value">BurpSuite, Ghidra, Wireshark</tspan></text></g><g clip-path="url(#lc10)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="264" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Python, C, Java, Bash</tspan></text></g><g clip-path="url(#lc11)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="286" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Infra</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Kali, Docker, VirtualBox</tspan></text></g><g clip-path="url(#lc12)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="308" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Future</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Rust, AWS, Operating Systems</tspan></text></g><g clip-path="url(#lc13)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="330" class="cc">. </tspan></text></g><g clip-path="url(#lc14)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="352" class="accent">- Projects</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc15)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="374" class="cc">. </tspan><tspan class="key">Proj</tspan><tspan class="cc">.</tspan><tspan class="key">ISRO2026</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Space Security Research</tspan></text></g><g clip-path="url(#lc16)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="396" class="cc">. </tspan><tspan class="key">Proj</tspan><tspan class="cc">.</tspan><tspan class="key">Echo-Pi</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Cybersecurity Automation</tspan></text></g><g clip-path="url(#lc17)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="418" class="cc">. </tspan><tspan class="key">Proj</tspan><tspan class="cc">.</tspan><tspan class="key">SENTINEL</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Security Suite</tspan></text></g><g clip-path="url(#lc18)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="440" class="cc">. </tspan></text></g><g clip-path="url(#lc19)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="462" class="cc">. </tspan></text></g><g clip-path="url(#lc20)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="484" class="accent">- Mission Status</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc21)"><text x="604" y="0" fill="#c0caf5"><tspan x="604" y="506" class="cc">. </tspan><tspan class="value">All systems operational</tspan></text></g>
+  <!-- Right panel content -->
+  <g clip-path="url(#lc0)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="42" class="head">@Cyber_Assassin</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g>
+  <g clip-path="url(#lc1)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Aditya Gowda</tspan></text></g>
+  <g clip-path="url(#lc2)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">CyberSecurity Expert</tspan></text></g>
+  <g clip-path="url(#lc3)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="110" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Banglore ( INDIA )</tspan></text></g>
+  <g clip-path="url(#lc4)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="132" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">B.Tech Engineering</tspan></text></g>
+  <g clip-path="url(#lc5)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="154" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ............ </tspan><tspan class="value">Building · Learning · Securing</tspan></text></g>
+  <g clip-path="url(#lc6)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="176" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Linux , Nvim , Git , Docker</tspan></text></g>
+  <g clip-path="url(#lc7)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="198" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc8)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="220" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Pentest</tspan><tspan class="cc">: ............... </tspan><tspan class="value">OSINT, VulnScan, Malware</tspan></text></g>
+  <g clip-path="url(#lc9)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="242" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Network</tspan><tspan class="cc">: ............... </tspan><tspan class="value">BurpSuite, Ghidra, Wireshark</tspan></text></g>
+  <g clip-path="url(#lc10)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="264" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Python, C, Java, Bash</tspan></text></g>
+  <g clip-path="url(#lc11)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="286" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Infra</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Kali, Docker, VirtualBox</tspan></text></g>
+  <g clip-path="url(#lc12)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="308" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Future</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Rust, AWS, Operating Systems</tspan></text></g>
+  <g clip-path="url(#lc13)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="330" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc14)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="352" class="accent">- Projects -</tspan></text></g>
+  <g clip-path="url(#lc15)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="374" class="cc">.  </tspan><tspan class="key">ISRO2026</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Space Security Research</tspan></text></g>
+  <g clip-path="url(#lc16)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="396" class="cc">.  </tspan><tspan class="key">Echo-Pi</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Cybersecurity Automation</tspan></text></g>
+  <g clip-path="url(#lc17)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="418" class="cc">.  </tspan><tspan class="key">SENTINEL</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Security Suite</tspan></text></g>
+  <g clip-path="url(#lc18)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="440" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc19)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="462" class="cc">. </tspan></text></g>
+  <g clip-path="url(#lc20)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="484" class="accent">- Mission Status -</tspan></text></g>
+  <g clip-path="url(#lc21)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="506" class="cc">. </tspan><tspan class="accent">All systems operational</tspan></text></g>
 
-  <rect x="606" y="491.0" width="9" height="16" class="cursor-blink" opacity="0">
+  <rect x="448" y="506" width="9" height="16" class="cursor-blink" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
   </rect>
 </g>
