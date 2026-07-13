@@ -82,6 +82,10 @@
     .scan-probing { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #FF9E64; font-weight: bold; }
     .scan-secured { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #9ECE6A; font-weight: bold; }
     .sep { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #565F89; }
+    .box-gs { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #FF9E64; }
+    .box-ac { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #565F89; }
+    .flag-gs { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #FF9E64; font-weight: bold; }
+    .flag-ac { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #565F89; }
   </style>
 </defs>
 
@@ -101,8 +105,8 @@
 </g>
 
 <g transform="translate(0,38)">
-  <rect x="40" y="26" width="360" height="510" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
-  <rect x="430" y="26" width="710" height="510" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="40" y="26" width="360" height="530" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="430" y="26" width="710" height="530" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
   <text x="56" y="24" class="panel-title">NMAP.SCAN</text>
   <text x="446" y="24" class="panel-title">SYSTEM.INFO</text>
 
@@ -152,19 +156,14 @@
 
   </text>
 
-<text x="56" y="426.00" class="sep">┌─────────────────────────────────────┐</text>
-<text x="56" y="442.00" class="scan-hdr"> TARGET           PORTS     STATUS</text>
-<text x="56" y="456.00" class="scan-port" font-weight="bold"> Cyber.Assassin</text>
-<text x="164" y="456.00" class="scan-port">22,80,443</text>
-<text x="248" y="456.00" class="scan-breached">BREACHED</text>
-<text x="56" y="470.00" class="scan-port" font-weight="bold"> GlitchShift</text>
-<text x="164" y="470.00" class="scan-port">443,8443</text>
-<text x="248" y="470.00" class="scan-probing">PROBING</text>
-<text x="56" y="484.00" class="scan-port" font-weight="bold"> Atlas.Corp</text>
-<text x="164" y="484.00" class="scan-port">—</text>
-<text x="248" y="484.00" class="scan-secured">SECURED</text>
-<text x="56" y="498.00" class="sep">└─────────────────────────────────────┘</text>
-<text x="56" y="514.00" class="scan-st">▸ Access: 2/3 nodes pwned  |  root@atlas</text>
+<text x="56" y="426" class="box-gs">┌─ GlitchShift ───────────────────────────────────────┐</text>
+<text x="59" y="440" class="scan-port">8080/tcp</text><text x="138" y="440" class="arrow">→</text><text x="154" y="440" class="scan-svc">http-proxy</text><text x="290" y="440" class="flag-gs">✓</text>
+<text x="59" y="454" class="scan-port">8443/tcp</text><text x="138" y="454" class="arrow">→</text><text x="154" y="454" class="scan-svc">https-alt</text><text x="290" y="454" class="flag-gs">✓</text>
+<text x="56" y="468" class="box-gs">└─────────────────────────────────────────────────────┘</text>
+<text x="56" y="484" class="box-ac">┌─ Atlas.Corp ────────────────────────────────────────┐</text>
+<text x="59" y="498" class="scan-svc">all ports filtered — IDS/IPS active</text><text x="310" y="498" class="flag-ac">⛌</text>
+<text x="56" y="512" class="box-ac">└─────────────────────────────────────────────────────┘</text>
+<text x="56" y="532" class="scan-st">═══ 5 FLAGS CAPTURED ══════════════════════════════════</text>
 
   </g>
 
