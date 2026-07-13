@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="616" viewBox="0 0 1180 616">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="675" viewBox="0 0 1180 616">
   <defs>
     <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#7AA2F7">
@@ -34,34 +34,34 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="616">
+    <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="675">
       <rect x="0" y="0" width="1180" height="0" fill="#fff">
-        <animate attributeName="height" from="0" to="610" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+        <animate attributeName="height" from="0" to="640" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
       </rect>
     </mask>
-        <clipPath id="lc0b"><rect x="550" y="48.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc0"><rect x="550" y="28.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc1"><rect x="550" y="68.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc2"><rect x="550" y="90.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.97s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc3"><rect x="550" y="112.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.08s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc4"><rect x="550" y="134.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.19s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc5"><rect x="550" y="156.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.30s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc6"><rect x="550" y="178.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.41s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc7"><rect x="550" y="200.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.52s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc8"><rect x="550" y="222.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.63s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc9"><rect x="550" y="244.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.74s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc10"><rect x="550" y="266.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.85s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc11"><rect x="550" y="288.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.96s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc12"><rect x="550" y="310.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.07s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc13"><rect x="550" y="332.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.18s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc14"><rect x="550" y="354.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.29s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc15"><rect x="550" y="376.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.40s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc16"><rect x="550" y="398.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.51s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc17"><rect x="550" y="420.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.62s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc18"><rect x="550" y="442.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.73s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc19"><rect x="550" y="464.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.84s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc20"><rect x="550" y="486.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.95s" fill="freeze"/></rect></clipPath>
-    <clipPath id="lc21"><rect x="550" y="508.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.06s" fill="freeze"/></rect></clipPath>
+        <clipPath id="lc0b"><rect x="550" y="48.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc0"><rect x="550" y="28.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc1"><rect x="550" y="68.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc2"><rect x="550" y="90.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="0.97s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc3"><rect x="550" y="112.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.08s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc4"><rect x="550" y="134.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.19s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc5"><rect x="550" y="156.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.30s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc6"><rect x="550" y="178.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.41s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc7"><rect x="550" y="200.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.52s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc8"><rect x="550" y="222.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.63s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc9"><rect x="550" y="244.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.74s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc10"><rect x="550" y="266.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.85s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc11"><rect x="550" y="288.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="1.96s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc12"><rect x="550" y="310.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.07s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc13"><rect x="550" y="332.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.18s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc14"><rect x="550" y="354.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.29s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc15"><rect x="550" y="376.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.40s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc16"><rect x="550" y="398.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.51s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc17"><rect x="550" y="420.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.62s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc18"><rect x="550" y="442.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.73s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc19"><rect x="550" y="464.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.84s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc20"><rect x="550" y="486.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="2.95s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lc21"><rect x="550" y="508.00" width="0" height="24"><animate attributeName="width" from="0" to="640" dur="0.38s" begin="3.06s" fill="freeze"/></rect></clipPath>
     <style>
       .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
       .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #7AA2F7; font-weight: bold; }
@@ -89,12 +89,12 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1180" height="616" rx="18" fill="url(#bgGlow)"/>
-  <rect width="1180" height="616" rx="18" fill="url(#scanlines)"/>
+  <rect width="1180" height="675" rx="18" fill="url(#bgGlow)"/>
+  <rect width="1180" height="675" rx="18" fill="url(#scanlines)"/>
 
   <!-- Title bar -->
   <g id="titlebar">
-    <rect x="3" y="3" width="1174" height="34" rx="16" fill="#1A1B26" fill-opacity="0.85"/>
+    <rect x="3" y="3" width="1174" height="669" rx="16" fill="#1A1B26" fill-opacity="0.85"/>
     <circle cx="24" cy="20" r="5" fill="#F7768E"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
     <circle cx="42" cy="20" r="5" fill="#E0AF68"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="60" cy="20" r="5" fill="#9ECE6A"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
@@ -109,7 +109,7 @@
   <g transform="translate(0,38)">
 
     <!-- Panel backgrounds -->
-    <rect x="30" y="26" width="500" height="570" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+    <rect x="30" y="26" width="500" height="580" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
     <rect x="550" y="26" width="600" height="570" rx="14" fill="#1A1B26" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
     <text x="46" y="24" class="panel-title">NMAP.SCAN</text>
     <text x="566" y="24" class="panel-title">SYSTEM.INFO</text>
@@ -117,57 +117,61 @@
     <!-- NMAP.SCAN panel content -->
     <g mask="url(#revealMask)">
       <text x="46" y="0" class="ascii">
-        <tspan x="46" y="38.00" xml:space="preserve">**++*=#*-+*==+-+=-::.        .:-:-=+-==++**+#*=::..-::. .:.-=+**#####*+=..:.::=+</tspan>
-        <tspan x="46" y="47.50" xml:space="preserve">=+*%##*#*****+*=:==:.         ...:..:=++-=--=::.:.   :=-++**++-*####***+-.:::::=</tspan>
-        <tspan x="46" y="57.00" xml:space="preserve">%%%%%%%#*#*--=+--=:::-=::-=-=.:: ..*=***+***+*+===--+*###%#**+#%%%%%%##*+=::::::</tspan>
-        <tspan x="46" y="66.50" xml:space="preserve">%#%%%####+-=--:=++:-==+-++=*--*#*++.:+*+*#######**-.*#####+**#%%%#%%@%%*+ .:-::.</tspan>
-        <tspan x="46" y="76.00" xml:space="preserve">%#%#%%+**+-=+-+++=+==*######.-++:==+*==*++=++===+**+--:..:--=*+++*#*##%%*=--:-:.</tspan>
-        <tspan x="46" y="85.50" xml:space="preserve">%##%##*#++=+##*+==**==#*%%%%####*=##+=**+##*####*+#*=-:::=-+#%%%%%%%%%%%*--::-::</tspan>
-        <tspan x="46" y="95.00" xml:space="preserve">##%%%%#%**+==++==+*#==*%%%%%%+*####*==*###%%%%@%%%%#+=+*++#%%%%%%%%%%%%#*-=.:--:</tspan>
-        <tspan x="46" y="104.50" xml:space="preserve">%#%%*%%#%##+=+=::--+--+*%%%%%#%%%##+=+####%%%%@%%#*=++*++#%%%@%%%#%%%%#+==::-:::</tspan>
-        <tspan x="46" y="114.00" xml:space="preserve">%%%%%%%%%%%##**+==---+*+-+#%%%%%%#*=#*##%%%%%##**:==++:+*#%%%%%%%%%#*+++=.-::..=</tspan>
-        <tspan x="46" y="123.50" xml:space="preserve">%%%%%%%%%%%%%%#=**##*=*##**#*+*==.-#%*##%##==+*:--=-:-#%%%#####*++*****=::.. :+*</tspan>
-        <tspan x="46" y="133.00" xml:space="preserve">%%#%%%%%%%%%%##+#+****##*%####**++*%===*+=+**#.:::. ####%%%%######*+:::.  .=**#</tspan>
-        <tspan x="46" y="142.50" xml:space="preserve">#%%%%%%%%%%%%%#+*#+++#**#::::.:+#=#%.::::::--+....  ==+==++++++++-::::.  ==+*##%</tspan>
-        <tspan x="46" y="152.00" xml:space="preserve">#%%%%%%%%%%%%%*=+*##+****...:::*=*#*==-::..:++     --:....:::::....  -=++****#%%</tspan>
-        <tspan x="46" y="161.50" xml:space="preserve">#%%%%%%%%%%%%%#==+++***+*+:--+%%=*##%%%%%*=+**    -+**#####*#*************###%%@</tspan>
-        <tspan x="46" y="171.00" xml:space="preserve">##%%%%%%%%%%%%%+=*#*+*####*+%##=+###%%%%%%%%**   %%*+*######%#######*#*###+-#%%@</tspan>
-        <tspan x="46" y="180.50" xml:space="preserve">##%%%%%%%%%%%%%#**=*#%#%%%%%*+=-*##########%%-  %%%%#*#%####%#%##########%##%%%%</tspan>
-        <tspan x="46" y="190.00" xml:space="preserve">##%%%%%%%%%%%%%####*+=*%#%@#*=-=*#****###%%%%:.%%%##%#*#%%%#%#%####%#%%%%##%%%%#</tspan>
-        <tspan x="46" y="199.50" xml:space="preserve">#%%%%%#%%%%%%%%%##%##*+=%%##%#++****##%***%%%=.*##=+%%*#%%%%%%%%%%%%%%%%%%###%#%</tspan>
-        <tspan x="46" y="209.00" xml:space="preserve">##%%%%%%%%%%%%%%%%%#*#+=%#----++##*-::::.*#*%*=+#=-+%%##%%%%%%%%%%%%%%#%#%*###*%</tspan>
-        <tspan x="46" y="218.50" xml:space="preserve">%%#%%%%%%%%%%##%%%%%+*+-##...=**#%#%%. .*+#+==:+=.:%%###*######%%%%%##*%#%#%-%#%</tspan>
-        <tspan x="46" y="228.00" xml:space="preserve">%%%#%%%%%%%%#%#%%%%#-*+:-*#%#%%%#%%%%%#**= : *=. ##*#+=+%%%%#**%%%%####+%#=#-%%#</tspan>
-        <tspan x="46" y="237.50" xml:space="preserve">%%##%%%%%%%%%%%#%%%%%#:-.-+*#%@%+%%%%**++ -=:..##*++=#*####%%%%%***#*+-+#*##-%%#</tspan>
-        <tspan x="46" y="247.00" xml:space="preserve">%%%##%%%%%%%%%%%#%###+-=.:.-+#*#####*-:+=-*****+==-:#****#######%%%=..  .:-#*###</tspan>
-        <tspan x="46" y="256.50" xml:space="preserve">*###-#%%##%%#%%#######..--.::-=+**+**####**+=-::..%+*++===++*#%#####%%%%%%%%%%+*</tspan>
-        <tspan x="46" y="266.00" xml:space="preserve">#####=###%#%##%%#######=-.:: ..::-====--::...  =+%*+*#******+*++#++*##-*#%%%%%%%</tspan>
-        <tspan x="46" y="275.50" xml:space="preserve">##*#*+:########%######**+++.=*             :--.%#%=++*=*#**##*###*+++==+:+**%%%%</tspan>
-        <tspan x="46" y="285.00" xml:space="preserve">***===-.#####%#%#*###**-=**=+=-.   ..      .-.+*%-++:*++**+***#*###+*+++++=*+*++</tspan>
-        <tspan x="46" y="294.50" xml:space="preserve">*=--: ::*#*#######*#*+***+**-+=.==----=====-:*++-+.=*+++:-#*-****#***-*:***#*##*</tspan>
-        <tspan x="46" y="304.00" xml:space="preserve">#----. ..#*++##*#*#+#****-#**==-:        :-:###**=-:===.-*+-=+=*##**+++***####+*</tspan>
-        <tspan x="46" y="313.50" xml:space="preserve">%*=**+: .:#+*+*-*=**=+++*=-**=-=.:.    .-=**+===---:--*=+*==*+:***=++++#*+*##**#</tspan>
-        <tspan x="46" y="323.00" xml:space="preserve">+*#*==..-**=-#*-+:*=+:=+++-*+=+:-:.#...=%+++::..:..:#=-=+.-*#+:+**:=--+*+.*#+**#</tspan>
-        <tspan x="46" y="332.50" xml:space="preserve">+###+**:.**==+++==+=*++-=---+*#%% =%  @%%==-.   ...-*%:++-**=.=**:*+--+= +**=:*+</tspan>
-        <tspan x="46" y="342.00" xml:space="preserve">=*%#=++*.*--+=++*+#=+=++*##%#%%%% %% @%%%-:.    .:-+#%%----*::==:+++-++=+*+*-*=+</tspan>
-        <tspan x="46" y="351.50" xml:space="preserve">#=+##+*=:+:==+=+-==*##+#%%%%%%###.%%+%*#%+       :-=%#%%-:--+--.+*-:-+=++:+=-*++</tspan>
-        <tspan x="46" y="361.00" xml:space="preserve">#+=+###=+-:::= .*+#%%%*%#*#+####**%%%%*#%..*     :%%%#*#:-:-:.:=.=-.--===+----++</tspan>
-        <tspan x="46" y="370.50" xml:space="preserve">=*+-++**=-+=.:%%%%%#%#########**+*+%-*-+*######*%###%##+.=+-=:-*-.:=.=:.+-:+:=+*</tspan>
-        <tspan x="46" y="380.00" xml:space="preserve">-=*#==#+=: .#%##%####***#*+*****##=#:: .--*#*##+=#***##*.=:-=::-:.-.-*+=--==+==+</tspan>
-        <tspan x="46" y="389.50" xml:space="preserve">-::=*-==--+:-*#+*=**-***=*#*#*###*#*==++=. -*####*=+-+##=..-::*:==-:==-:-:::=+==</tspan>
-        <tspan x="46" y="399.00" xml:space="preserve">-**+++-:..::.+#+=+-+=:*####**#***+++==-:. .#%.:%*+==:####*:::-:.:-..+:=::===-:==</tspan>
-        <tspan x="46" y="408.50" xml:space="preserve">*=*+-+=:... .:++=*+****:*##*+#+##=*=:==+-:.:#-##*=+*===::..:. .=...---::-+=-=-:-</tspan>
+        <tspan x="46" y="44.00" xml:space="preserve">**++*=#*-+*==+-+=-::.        .:-:-=+-==++**+#*=::..-::. .:.-=+**#####*+=..:.::=+</tspan>
+        <tspan x="46" y="53.50" xml:space="preserve">=+*%##*#*****+*=:==:.         ...:..:=++-=--=::.:.   :=-++**++-*####***+-.:::::=</tspan>
+        <tspan x="46" y="63.00" xml:space="preserve">%%%%%%%#*#*--=+--=:::-=::-=-=.:: ..*=***+***+*+===--+*###%#**+#%%%%%%##*+=::::::</tspan>
+        <tspan x="46" y="72.50" xml:space="preserve">%#%%%####+-=--:=++:-==+-++=*--*#*++.:+*+*#######**-.*#####+**#%%%#%%@%%*+ .:-::.</tspan>
+        <tspan x="46" y="82.00" xml:space="preserve">%#%#%%+**+-=+-+++=+==*######.-++:==+*==*++=++===+**+--:..:--=*+++*#*##%%*=--:-:.</tspan>
+        <tspan x="46" y="91.50" xml:space="preserve">%##%##*#++=+##*+==**==#*%%%%####*=##+=**+##*####*+#*=-:::=-+#%%%%%%%%%%%*--::-::</tspan>
+        <tspan x="46" y="101.00" xml:space="preserve">##%%%%#%**+==++==+*#==*%%%%%%+*####*==*###%%%%@%%%%#+=+*++#%%%%%%%%%%%%#*-=.:--:</tspan>
+        <tspan x="46" y="110.50" xml:space="preserve">%#%%*%%#%##+=+=::--+--+*%%%%%#%%%##+=+####%%%%@%%#*=++*++#%%%@%%%#%%%%#+==::-:::</tspan>
+        <tspan x="46" y="120.00" xml:space="preserve">%%%%%%%%%%%##**+==---+*+-+#%%%%%%#*=#*##%%%%%##**:==++:+*#%%%%%%%%%#*+++=.-::..=</tspan>
+        <tspan x="46" y="129.50" xml:space="preserve">%%%%%%%%%%%%%%#=**##*=*##**#*+*==.-#%*##%##==+*:--=-:-#%%%#####*++*****=::.. :+*</tspan>
+        <tspan x="46" y="139.00" xml:space="preserve">%%#%%%%%%%%%%##+#+****##*%####**++*%===*+=+**#.:::. ####%%%%######*+:::.  .=**#</tspan>
+        <tspan x="46" y="148.50" xml:space="preserve">#%%%%%%%%%%%%%#+*#+++#**#::::.:+#=#%.::::::--+....  ==+==++++++++-::::.  ==+*##%</tspan>
+        <tspan x="46" y="158.00" xml:space="preserve">#%%%%%%%%%%%%%*=+*##+****...:::*=*#*==-::..:++     --:....:::::....  -=++****#%%</tspan>
+        <tspan x="46" y="167.50" xml:space="preserve">#%%%%%%%%%%%%%#==+++***+*+:--+%%=*##%%%%%*=+**    -+**#####*#*************###%%@</tspan>
+        <tspan x="46" y="177.00" xml:space="preserve">##%%%%%%%%%%%%%+=*#*+*####*+%##=+###%%%%%%%%**   %%*+*######%#######*#*###+-#%%@</tspan>
+        <tspan x="46" y="186.50" xml:space="preserve">##%%%%%%%%%%%%%#**=*#%#%%%%%*+=-*##########%%-  %%%%#*#%####%#%##########%##%%%%</tspan>
+        <tspan x="46" y="196.00" xml:space="preserve">##%%%%%%%%%%%%%####*+=*%#%@#*=-=*#****###%%%%:.%%%##%#*#%%%#%#%####%#%%%%##%%%%#</tspan>
+        <tspan x="46" y="205.50" xml:space="preserve">#%%%%%#%%%%%%%%%##%##*+=%%##%#++****##%***%%%=.*##=+%%*#%%%%%%%%%%%%%%%%%%###%#%</tspan>
+        <tspan x="46" y="215.00" xml:space="preserve">##%%%%%%%%%%%%%%%%%#*#+=%#----++##*-::::.*#*%*=+#=-+%%##%%%%%%%%%%%%%%#%#%*###*%</tspan>
+        <tspan x="46" y="224.50" xml:space="preserve">%%#%%%%%%%%%%##%%%%%+*+-##...=**#%#%%. .*+#+==:+=.:%%###*######%%%%%##*%#%#%-%#%</tspan>
+        <tspan x="46" y="234.00" xml:space="preserve">%%%#%%%%%%%%#%#%%%%#-*+:-*#%#%%%#%%%%%#**= : *=. ##*#+=+%%%%#**%%%%####+%#=#-%%#</tspan>
+        <tspan x="46" y="243.50" xml:space="preserve">%%##%%%%%%%%%%%#%%%%%#:-.-+*#%@%+%%%%**++ -=:..##*++=#*####%%%%%***#*+-+#*##-%%#</tspan>
+        <tspan x="46" y="253.00" xml:space="preserve">%%%##%%%%%%%%%%%#%###+-=.:.-+#*#####*-:+=-*****+==-:#****#######%%%=..  .:-#*###</tspan>
+        <tspan x="46" y="262.50" xml:space="preserve">*###-#%%##%%#%%#######..--.::-=+**+**####**+=-::..%+*++===++*#%#####%%%%%%%%%%+*</tspan>
+        <tspan x="46" y="272.00" xml:space="preserve">#####=###%#%##%%#######=-.:: ..::-====--::...  =+%*+*#******+*++#++*##-*#%%%%%%%</tspan>
+        <tspan x="46" y="281.50" xml:space="preserve">##*#*+:########%######**+++.=*             :--.%#%=++*=*#**##*###*+++==+:+**%%%%</tspan>
+        <tspan x="46" y="291.00" xml:space="preserve">***===-.#####%#%#*###**-=**=+=-.   ..      .-.+*%-++:*++**+***#*###+*+++++=*+*++</tspan>
+        <tspan x="46" y="300.50" xml:space="preserve">*=--: ::*#*#######*#*+***+**-+=.==----=====-:*++-+.=*+++:-#*-****#***-*:***#*##*</tspan>
+        <tspan x="46" y="310.00" xml:space="preserve">#----. ..#*++##*#*#+#****-#**==-:        :-:###**=-:===.-*+-=+=*##**+++***####+*</tspan>
+        <tspan x="46" y="319.50" xml:space="preserve">%*=**+: .:#+*+*-*=**=+++*=-**=-=.:.    .-=**+===---:--*=+*==*+:***=++++#*+*##**#</tspan>
+        <tspan x="46" y="329.00" xml:space="preserve">+*#*==..-**=-#*-+:*=+:=+++-*+=+:-:.#...=%+++::..:..:#=-=+.-*#+:+**:=--+*+.*#+**#</tspan>
+        <tspan x="46" y="338.50" xml:space="preserve">+###+**:.**==+++==+=*++-=---+*#%% =%  @%%==-.   ...-*%:++-**=.=**:*+--+= +**=:*+</tspan>
+        <tspan x="46" y="348.00" xml:space="preserve">=*%#=++*.*--+=++*+#=+=++*##%#%%%% %% @%%%-:.    .:-+#%%----*::==:+++-++=+*+*-*=+</tspan>
+        <tspan x="46" y="357.50" xml:space="preserve">#=+##+*=:+:==+=+-==*##+#%%%%%%###.%%+%*#%+       :-=%#%%-:--+--.+*-:-+=++:+=-*++</tspan>
+        <tspan x="46" y="367.00" xml:space="preserve">#+=+###=+-:::= .*+#%%%*%#*#+####**%%%%*#%..*     :%%%#*#:-:-:.:=.=-.--===+----++</tspan>
+        <tspan x="46" y="376.50" xml:space="preserve">=*+-++**=-+=.:%%%%%#%#########**+*+%-*-+*######*%###%##+.=+-=:-*-.:=.=:.+-:+:=+*</tspan>
+        <tspan x="46" y="386.00" xml:space="preserve">-=*#==#+=: .#%##%####***#*+*****##=#:: .--*#*##+=#***##*.=:-=::-:.-.-*+=--==+==+</tspan>
+        <tspan x="46" y="395.50" xml:space="preserve">-::=*-==--+:-*#+*=**-***=*#*#*###*#*==++=. -*####*=+-+##=..-::*:==-:==-:-:::=+==</tspan>
+        <tspan x="46" y="405.00" xml:space="preserve">-**+++-:..::.+#+=+-+=:*####**#***+++==-:. .#%.:%*+==:####*:::-:.:-..+:=::===-:==</tspan>
+        <tspan x="46" y="414.50" xml:space="preserve">*=*+-+=:... .:++=*+****:*##*+#+##=*=:==+-:.:#-##*=+*===::..:. .=...---::-+=-=-:-</tspan>
       </text>
 
       <!-- Scan results -->
-      <text x="46" y="424" class="scan-target-gs">┌─ GlitchShift ────────────────────────────────────────────┐</text>
-      <text x="46" y="442" class="scan-svc">│ 8080/tcp → http-proxy                                    │</text>
-      <text x="46" y="460" class="scan-svc">│ 8443/tcp → https-alt                                     │</text>
-      <text x="46" y="478" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
-      <text x="46" y="502" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
-      <text x="46" y="520" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
-      <text x="46" y="538" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
-      <text x="46" y="586" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
+      <text x="46" y="430" class="scan-target-gs">┌─ GlitchShift ────────────────────────────────────────────┐</text>
+      <text x="46" y="448" class="scan-svc">│ 8080/tcp → http-proxy                                    │</text>
+      <text x="46" y="466" class="scan-svc">│ 8443/tcp → https-alt                                     │</text>
+      <text x="46" y="484" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="508" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
+      <text x="46" y="526" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
+      <text x="46" y="544" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="592" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
+
+      <!-- Shared panel separators -->
+      <text x="46" y="606" class="scan-sep">══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════</text>
+      <text x="46" y="622" class="scan-sep">══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════</text>
 
     </g>
 
@@ -207,7 +211,7 @@
   </rect>
 
   <!-- Border glow -->
-  <rect x="3" y="3" width="1174" height="610" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <rect x="3" y="3" width="1174" height="669" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
     <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
