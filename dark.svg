@@ -159,14 +159,14 @@
       </text>
 
       <!-- Scan results -->
-      <text x="46" y="420" class="scan-target-gs">┌─ GlitchShift ────────────────────────────────────────────┐</text>
-      <text x="46" y="438" class="scan-svc">│ 8080/tcp → http-proxy                                    │</text>
-      <text x="46" y="456" class="scan-svc">│ 8443/tcp → https-alt                                     │</text>
-      <text x="46" y="474" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
-      <text x="46" y="494" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
-      <text x="46" y="512" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
-      <text x="46" y="530" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
-      <text x="46" y="562" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
+      <text x="46" y="424" class="scan-target-gs">┌─ GlitchShift ────────────────────────────────────────────┐</text>
+      <text x="46" y="442" class="scan-svc">│ 8080/tcp → http-proxy                                    │</text>
+      <text x="46" y="460" class="scan-svc">│ 8443/tcp → https-alt                                     │</text>
+      <text x="46" y="478" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="502" class="scan-target-al">┌─ Atlas.Corp ─────────────────────────────────────────────┐</text>
+      <text x="46" y="520" class="scan-flag-al">│ IDS/IPS ACTIVE — all ports blocked                       │</text>
+      <text x="46" y="538" class="scan-sep">└──────────────────────────────────────────────────────────┘</text>
+      <text x="46" y="586" class="scan-st">═══ 5 FLAGS CAPTURED ═══════════════════════════════════════</text>
 
     </g>
 
