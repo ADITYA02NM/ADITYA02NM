@@ -53,16 +53,6 @@ Engineering student with a strong interest in cybersecurity, systems engineering
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADITYA02NM&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&area_color=7AA2F7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ADITYA02NM/ADITYA02NM/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ADITYA02NM&icon=0&color=6" alt="Visitor Count"/>
-
-  *Crafted with 🔧 for the love of cybersecurity*
-</div>
+*Crafted with 🔧 for the love of cybersecurity*
