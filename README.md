@@ -49,16 +49,6 @@ Engineering student with a strong interest in cybersecurity, systems engineering
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITYA02NM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5)](https://github.com/ADITYA02NM)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ADITYA02NM&theme=tokyonight&hide_border=true&background=1A1B26&stroke=7AA2F7&ring=BB9AF7&fire=FF9E64&currStreakNum=C0CAF5&sideNums=C0CAF5)](https://github.com/ADITYA02NM)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA02NM&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5)](https://github.com/ADITYA02NM)
-
 ### 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADITYA02NM&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=7DCFFF&area=true&area_color=7AA2F7)](https://github.com/ashutosh00710/github-readme-activity-graph)
