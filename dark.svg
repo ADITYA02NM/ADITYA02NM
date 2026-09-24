@@ -161,7 +161,7 @@
 <text x="53" y="440" class="scan-svc">SilverFang</text><text x="304" y="440" class="flag-ac">✗ ✗ ✗</text>
 <text x="53" y="454" class="scan-svc">Glitchshift</text><text x="304" y="454" class="flag-ac">✗ ✗</text>
 <text x="53" y="468" class="scan-svc">Ego</text><text x="304" y="468" class="scan-state">✓</text>
-<text x="53" y="482" class="scan-svc">24.08.06</text><text x="304" y="482" class="scan-state">✓ ✓ ✓</text>
+<text x="53" y="482" class="scan-svc">P:24.08.06</text><text x="304" y="482" class="scan-state">✓ ✓ ✓</text>
 <text x="50" y="496" class="box-ac">└──────────────────────────────────────────────────────┘</text>
 
   </g>
