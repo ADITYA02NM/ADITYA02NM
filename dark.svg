@@ -62,6 +62,7 @@
   <clipPath id="lc20"><rect x="430" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.95s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc21"><rect x="430" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.06s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc22"><rect x="430" y="512.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc23"><rect x="430" y="534.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.28s" fill="freeze"/></rect></clipPath>
   <style>
     .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
     .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #22D3EE; font-weight: bold; }
@@ -113,6 +114,7 @@
   <text x="446" y="24" class="panel-title">SYSTEM.INFO</text>
 
   <g mask="url(#revealMask)">
+  <g transform="translate(0,18)">
   <text x="50" y="0" class="ascii">
 
 <tspan x="50" y="38.00" xml:space="preserve">**++*=#*-+*==+-+=-::.        .:-:-=+-==++**+#*=::..-::. .:.-=+**#####*+=..:.::=+</tspan>
@@ -157,14 +159,16 @@
 <tspan x="50" y="408.50" xml:space="preserve">*=*+-+=:... .:++=*+****:*##*+#+##=*=:==+-:.:#-##*=+*===::..:. .=...---::-+=-=-:-</tspan>
 
   </text>
+  </g>
 
-<text x="50" y="426" class="box-ac">┌─ Atlas.Corp ─────────────────────────────────────────┐</text>
-<text x="53" y="440" class="scan-svc">SilverFang</text><text x="304" y="440" class="flag-ac">✗ ✗ ✗</text>
-<text x="53" y="454" class="scan-svc">Glitchshift</text><text x="304" y="454" class="flag-ac">✗ ✗</text>
-<text x="53" y="468" class="scan-svc">Ego</text><text x="304" y="468" class="scan-state">✓</text>
-<text x="53" y="482" class="scan-svc">P:24.08.06</text><text x="304" y="482" class="scan-state">✓ ✓ ✓</text>
-<text x="50" y="496" class="box-ac">└──────────────────────────────────────────────────────┘</text>
-
+  <g transform="translate(0,30)">
+<text x="50" y="456" class="box-ac">┌─ Atlas.Corp ─────────────────────────────────────────┐</text>
+<text x="53" y="470" class="scan-svc">SilverFang</text><text x="304" y="470" class="flag-ac">✗ ✗ ✗</text>
+<text x="53" y="484" class="scan-svc">Glitchshift</text><text x="304" y="484" class="flag-ac">✗ ✗</text>
+<text x="53" y="498" class="scan-svc">Ego</text><text x="304" y="498" class="scan-state">✓</text>
+<text x="53" y="512" class="scan-svc">P:24.08.06</text><text x="304" y="512" class="scan-state">✓ ✓ ✓</text>
+<text x="50" y="526" class="box-ac">└──────────────────────────────────────────────────────┘</text>
+  </g>
   </g>
 
   <!-- Right panel content -->
@@ -188,11 +192,12 @@
   <g clip-path="url(#lc17)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="418" class="cc">.  </tspan><tspan class="key">SENTINEL</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Cyber-Security suite</tspan></text></g>
   <g clip-path="url(#lc18)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="440" class="cc">.  </tspan><tspan class="key">Ultron (IoT)</tspan><tspan class="cc">: .................... </tspan><tspan class="value">Blackhat 2027 IoT submission</tspan></text></g>
   <g clip-path="url(#lc19)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="462" class="cc">.  </tspan><tspan class="key">VeriPass</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Blockchain-based ecosystem</tspan></text></g>
-  <g clip-path="url(#lc20)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="484" class="cc">.  </tspan><tspan class="key">future</tspan></text></g>
+  <g clip-path="url(#lc20)"><text x="785" y="484" text-anchor="middle" class="key">future</text></g>
   <g clip-path="url(#lc21)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="506" class="cc">.  </tspan><tspan class="key">CyberPixel</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Story cybersecurity game in Minecraft</tspan></text></g>
   <g clip-path="url(#lc22)"><text x="446" y="0" fill="#c0caf5"><tspan x="446" y="528" class="cc">.  </tspan><tspan class="key">ULTRON (S3)</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Complete CyberSecurity Suite</tspan></text></g>
+  <g clip-path="url(#lc23)"><text x="785" y="550" text-anchor="middle" class="cc">~ more reverse engineering ahead</text></g>
 
-  <rect x="448" y="528" width="9" height="16" class="cursor-blink" opacity="0">
+  <rect x="931" y="538" width="9" height="16" class="cursor-blink" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
   </rect>
 </g>
