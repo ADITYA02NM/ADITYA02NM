@@ -1,17 +1,17 @@
-## 🚀 Engineering Portfolio
+## >> Engineering Portfolio
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <img src="./dark.svg" alt="Aditya Gowda — Cybersecurity Engineer" width="100%">
 </picture>
 
-## 💫 About Me
+## * About Me
 
 Engineering student with a strong interest in cybersecurity, systems engineering, and technology-driven problem solving. I enjoy exploring how systems work at a deeper level — analyzing networks, studying potential vulnerabilities, and building practical tools that improve security and efficiency. My focus is on learning both the defensive and analytical aspects of cybersecurity while developing skills in Linux environments, scripting, and automation. I use GitHub to document projects, experiments, and technical learning as I continue to grow as an engineer.
 
 Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline satellite), **ISRO2026** (air-gapped system for MPLS systems), **SENTINEL** (cyber-security suite), **Ultron IoT** (Blackhat 2027 IoT submission), **VeriPass** (blockchain-based ecosystem), **CyberPixel** (story cybersecurity game in Minecraft), and **ULTRON S3** (complete cybersecurity suite).
 
-## 🛡️ Security
+## [!] Security
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## 🧠 Skills
+## :: Skills
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## ⚙️ Tech
+## [*] Tech
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## 🎯 Working On
+## [x] Working On
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## 💻 I Use
+## [_] I Use
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## 🚀 Projects
+## >> Projects
 
 | Project | Description |
 | :-- | :-- |
@@ -142,15 +142,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 | **CyberPixel** | Story cybersecurity game in Minecraft |
 | **ULTRON (S3)** | Complete CyberSecurity Suite |
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYA02NM&show_icons=true&theme=tokyo-night&hide_border=true&border_radius=16" alt="ADITYA02NM GitHub stats"/>
-
-</div>
-
-## 🐍 Contribution Snake
+## ~> Contribution Snake
 
 <div align="center">
 
@@ -161,7 +153,7 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 </div>
 
-## 🫱🏼‍🫲🏼 Connect with me
+## <-> Connect with me
 
 <div align="center">
 
@@ -171,4 +163,4 @@ Currently an **Intern at Reinfosec**. Recent work includes **Echo-Pi** (offline 
 
 ---
 
-*Crafted with 🔧 for the love of cybersecurity*
+*Crafted with <3 for the love of cybersecurity*
